@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+DMM WEBCAMP の学習コンテンツ HTML/CSS を学ぼうの研修課題です。
+hoge hoge2
+>>>>>>> origin/main
